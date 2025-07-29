@@ -1,3 +1,8 @@
+//Time Complexity :O(n)
+//Space Complexity :O(n)
+//Did this code successfully run on Leetcode : N/A
+//Any problem you faced while coding this : N/A
+
 class QuickSort 
 { 
     /* This function takes last element as pivot, 
